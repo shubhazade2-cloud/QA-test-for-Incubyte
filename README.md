@@ -13,4 +13,4 @@ Test Gmail compose function to send an email with:
 - Positive and negative scenarios
 
 ## File
-Gmail_Compose_Manual_Assessment_Test_Cases.xlsx
+Manual Assessment - Gmail Compose Function Test Suite.xlsx
